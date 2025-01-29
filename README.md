@@ -64,14 +64,15 @@ Our study used **geospatial maps and scatter plots** to analyze the trends:
      ![image](https://github.com/user-attachments/assets/07be31cf-34cc-4f9e-acba-0f43deffb151)
 
 3. **Scatter Plots on Park Size vs. Cases:**  
+
    - **Scatterplot on park size and cases, with full dataset**
    ![image](https://github.com/user-attachments/assets/4a8da5b6-db6a-4cc6-9aad-b62d8b679c3a)
      
    - **Scatterplot on data that has been scaled logarithmically**
-     ![image](https://github.com/user-attachments/assets/d012defd-9586-485e-ac70-3eac139ba5a5)
+   ![image](https://github.com/user-attachments/assets/d012defd-9586-485e-ac70-3eac139ba5a5)
 
    - **Scatterplot and the best-fitted line on park size and cases**
-     ![image](https://github.com/user-attachments/assets/6ed8afcd-f006-4b52-847d-3f469f23bca0)
+   ![image](https://github.com/user-attachments/assets/6ed8afcd-f006-4b52-847d-3f469f23bca0)
 
 
 ### **📌 Conclusion**
